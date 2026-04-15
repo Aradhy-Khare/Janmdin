@@ -1,5 +1,5 @@
-const FRIEND_NAME = "Happy Birthday [Name]";
-const SECRET_CODE = "CODE";
+const FRIEND_NAME = "Happy Birthday Gourvi";
+const SECRET_CODE = "GOBI";
 
 document.getElementById("nameDisplay").innerText = FRIEND_NAME;
 
